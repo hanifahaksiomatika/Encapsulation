@@ -1,0 +1,9 @@
+C:\Hani\smt 2\progamming\UAS PEMROGRAMAN\Tugas no 1\UAS_Encapsulation\UAS_Encapsulation\bin\Debug\UAS_Encapsulation.exe.config
+C:\Hani\smt 2\progamming\UAS PEMROGRAMAN\Tugas no 1\UAS_Encapsulation\UAS_Encapsulation\bin\Debug\UAS_Encapsulation.exe
+C:\Hani\smt 2\progamming\UAS PEMROGRAMAN\Tugas no 1\UAS_Encapsulation\UAS_Encapsulation\bin\Debug\UAS_Encapsulation.pdb
+C:\Hani\smt 2\progamming\UAS PEMROGRAMAN\Tugas no 1\UAS_Encapsulation\UAS_Encapsulation\obj\Debug\UAS_Encapsulation.csprojResolveAssemblyReference.cache
+C:\Hani\smt 2\progamming\UAS PEMROGRAMAN\Tugas no 1\UAS_Encapsulation\UAS_Encapsulation\obj\Debug\UAS_Encapsulation.exe
+C:\Hani\smt 2\progamming\UAS PEMROGRAMAN\Tugas no 1\UAS_Encapsulation\UAS_Encapsulation\obj\Debug\UAS_Encapsulation.pdb
+C:\Hani\smt 2\Pemrograman\UAS PEMROGRAMAN\Tugas no 1\UAS_Encapsulation\UAS_Encapsulation\bin\Debug\UAS_Encapsulation.exe.config
+C:\Hani\smt 2\Pemrograman\UAS PEMROGRAMAN\Tugas no 1\UAS_Encapsulation\UAS_Encapsulation\obj\Debug\UAS_Encapsulation.exe
+C:\Hani\smt 2\Pemrograman\UAS PEMROGRAMAN\Tugas no 1\UAS_Encapsulation\UAS_Encapsulation\obj\Debug\UAS_Encapsulation.pdb
